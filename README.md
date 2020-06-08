@@ -15,7 +15,7 @@ These images are bifurcated as follows:\
 	3. Test Set — 1000 images
 
 ## Prepare photo data
-I used a pre-trained model to interpret content of the photos. There are many model to choose from. In this project, I chose IceptionV3 model.
+I used a pre-trained model to interpret content of the photos. There are many model to choose from. In this project, I chose InceptionV3 model.
 
 ## Prepare text data
 In order to  reduce the size of the vocabulary of words, the text data must be cleaned:
