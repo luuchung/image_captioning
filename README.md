@@ -18,7 +18,7 @@ These images are bifurcated as follows:\
 I used a pre-trained model to interpret content of the photos. There are many model to choose from. In this project, I chose InceptionV3 model.
 
 ## Prepare text data
-In order to  reduce the size of the vocabulary of words, the text data must be cleaned:
+In order to  reduce the size of the vocabulary of words, the text data must be cleaned:\
 	1. Convert all words to lowercase.\
 	2. Remove all punctuation.\
 	3. Remove all words that are one character or less in length (e.g. ‘a’).\
